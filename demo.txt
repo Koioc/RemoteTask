@@ -1,6 +1,3 @@
 Just a text adding into a demo file.
-<<<<<<< HEAD
-Add local repo
-=======
-Edit on web
->>>>>>> c9c522dfc76ab004461c4df66c4ca1cb214ea712
+# Hello Markfdown
+
